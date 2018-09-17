@@ -1,0 +1,12 @@
+= Marine data hub API
+
+	This guide provides the information about the vessel API.
+	
+== Vessel Particulars 	
+	
+	Vessel Particulars API fetches the vessel details.
+
+.Request 
+include::{snippets}/index/http-request.adoc[]
+.Response
+include::{snippets}/index/http-response.adoc[]

@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+[{"vesselRecordId":null,"vesselName":"v1"}]
+----

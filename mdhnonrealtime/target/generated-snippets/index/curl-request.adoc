@@ -1,0 +1,4 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/vessel/particulars?vesselName=Window&callSign=callSign&imoNumber=1212' -i -X GET
+----
