@@ -15,17 +15,16 @@ import javax.persistence.Table;
  *
  */
 
-@Table(name="cv_vsl")
-@Entity
+
 public class VesselParticulars {
 
 	
 	@Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name="vslrecid_n")
+	
 	private Integer vesselRecordId;
 	
-	@Column(name="vsl_m")
+	
 	private String vesselName; 
 	
 	/**
